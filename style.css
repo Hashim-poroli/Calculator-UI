@@ -1,0 +1,77 @@
+*{
+    margin: 0%;
+}
+#mainbox{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#calculator{
+    width: 250px;
+    height: 350px;
+    background-color: rgb(80, 77, 77);
+    border-radius: 10px;
+}
+#display{
+    width: 200px;
+    height: 80px;
+    background-color: gray;
+    margin-left: 25px;
+    margin-top: 25px;
+    border-radius: 7px;
+}
+#row1{
+    margin-top: 10PX;
+    width: 300px;
+    height: 60px;
+    display: flex;
+}
+#btn{
+    width: 50px;
+    height: 50px;
+    background-color: whitesmoke;
+    margin-left: 25px;
+    border-radius: 50%;
+    margin-top: 5px;
+    box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2);
+}
+#btn3{
+    width: 50px;
+    height: 50px;
+    background-color: tomato;
+    margin-left: 25px;
+    border-radius: 50%;
+    margin-top: 5px; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+}
+#btn6{
+    width: 50px;
+    height: 50px;
+    background-color: tomato;
+    margin-left: 25px;
+    border-radius: 50%;
+    margin-top: 5px;  
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+
+}
+#btn7{
+    width: 125px;
+    height: 50px;
+    background-color:  whitesmoke;
+    margin-left: 25px;
+    border-radius: 40px;
+    margin-top: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+
+}
+#btn8{
+    width: 50px;
+    height: 50px;
+    background-color: tomato;
+    margin-left: 25px;
+    border-radius: 50%;
+    margin-top: 5px; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+
+}
